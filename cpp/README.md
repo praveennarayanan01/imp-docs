@@ -4,7 +4,7 @@ Structured roadmap to learning C++ from beginner to advanced levels:
 
 [Syntax and Structure](cpp/basics/syntax.md)
 
-Data Types (int, char, float, etc.)
+[Data Types](cpp/basics/datatypes.md)
 
 Variables and Constants
 
